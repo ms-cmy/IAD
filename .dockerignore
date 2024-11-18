@@ -1,0 +1,7 @@
+*.ipynb
+teste/
+lib_iad/
+.gitignore
+dockerfile
+makefile
+README.md
