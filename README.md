@@ -15,7 +15,9 @@ Notebooks: contém implementação em python
 
 
 há também partes de exercícios feitos em .cpp (ROOT)
+
 [plot do seno](files/aula_3_exercicios/seno.cpp)
+
 [plot de valores aleatórios](files/aula_3_exercicios/exemplo_1.cpp)
 
 # Exercício 4:
